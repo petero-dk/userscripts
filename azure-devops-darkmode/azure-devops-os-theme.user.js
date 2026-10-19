@@ -10,6 +10,7 @@
 // @match        https://dev.azure.com/*
 // @match        https://*.visualstudio.com/*
 // @run-at       document-idle
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
